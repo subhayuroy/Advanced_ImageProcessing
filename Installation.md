@@ -4,7 +4,8 @@
 
 *On Ubuntu it can be installed as follows:*
 ```sudo apt install tesseract-ocr
-sudo apt install libtesseract-dev```
+sudo apt install libtesseract-dev
+```
 
 
 *on another Linux distribution,consult the installation guide* [here](https://github.com/tesseract-ocr/tesseract/wiki).
