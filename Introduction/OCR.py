@@ -1,8 +1,8 @@
-import os
 from PIL import Image
 import pytesseract
 import argparse
 import cv2
+import os
 
 ap = argparse.ArgumentParser()
 ap.add_argument("-i", "--image", required=True, help="path to image that will be processed by OCR / tesseract")
